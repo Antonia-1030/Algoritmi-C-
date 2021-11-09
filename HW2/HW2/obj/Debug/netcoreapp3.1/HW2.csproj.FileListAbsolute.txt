@@ -1,0 +1,14 @@
+D:\Desktop\FMI\Algoritmi C#\HW2\HW2\bin\Debug\netcoreapp3.1\HW2.exe
+D:\Desktop\FMI\Algoritmi C#\HW2\HW2\bin\Debug\netcoreapp3.1\HW2.deps.json
+D:\Desktop\FMI\Algoritmi C#\HW2\HW2\bin\Debug\netcoreapp3.1\HW2.runtimeconfig.json
+D:\Desktop\FMI\Algoritmi C#\HW2\HW2\bin\Debug\netcoreapp3.1\HW2.runtimeconfig.dev.json
+D:\Desktop\FMI\Algoritmi C#\HW2\HW2\bin\Debug\netcoreapp3.1\HW2.dll
+D:\Desktop\FMI\Algoritmi C#\HW2\HW2\bin\Debug\netcoreapp3.1\HW2.pdb
+D:\Desktop\FMI\Algoritmi C#\HW2\HW2\obj\Debug\netcoreapp3.1\HW2.csproj.AssemblyReference.cache
+D:\Desktop\FMI\Algoritmi C#\HW2\HW2\obj\Debug\netcoreapp3.1\HW2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\FMI\Algoritmi C#\HW2\HW2\obj\Debug\netcoreapp3.1\HW2.AssemblyInfoInputs.cache
+D:\Desktop\FMI\Algoritmi C#\HW2\HW2\obj\Debug\netcoreapp3.1\HW2.AssemblyInfo.cs
+D:\Desktop\FMI\Algoritmi C#\HW2\HW2\obj\Debug\netcoreapp3.1\HW2.csproj.CoreCompileInputs.cache
+D:\Desktop\FMI\Algoritmi C#\HW2\HW2\obj\Debug\netcoreapp3.1\HW2.dll
+D:\Desktop\FMI\Algoritmi C#\HW2\HW2\obj\Debug\netcoreapp3.1\HW2.pdb
+D:\Desktop\FMI\Algoritmi C#\HW2\HW2\obj\Debug\netcoreapp3.1\HW2.genruntimeconfig.cache
